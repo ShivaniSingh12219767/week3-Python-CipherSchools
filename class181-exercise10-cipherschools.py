@@ -5,5 +5,3 @@ def even_generator(n):
 even_nums=even_generator(20)
 for num in even_nums:
     print(num)
-for num in even_nums:
-    print(num)
